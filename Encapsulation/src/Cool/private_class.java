@@ -1,4 +1,5 @@
 package Cool;
+
 import java.util.Scanner;
 
 public class private_class {
@@ -14,7 +15,6 @@ public class private_class {
         name = i.next();
         System.out.print("Enter Basic : ");
         basic = i.nextDouble();
-        
     }
 
     public void Show(){

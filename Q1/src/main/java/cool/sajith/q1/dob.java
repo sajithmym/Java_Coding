@@ -1,15 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package cool.sajith.q1;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Mohamed sajith
- */
 public class dob {
     int y,m,d;
     Scanner e = new Scanner(System.in);

@@ -19,7 +19,7 @@ public class store {
         City  = ip.next();
     }
 
-    @Override 
+    @Override
     public String toString(){
         return "\nStudent {Sdudent id = "+String.valueOf(id)+", Name = "+Name+", DOB = "+w.gt()+", City = "+City+"}";
     }

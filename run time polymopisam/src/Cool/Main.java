@@ -1,4 +1,6 @@
 package Cool;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Main {
 
@@ -8,6 +10,13 @@ public class Main {
         Sun s = new Sun();
 
         test saj = new test(10,"sajith");
+        System.out.println('\n');
+        List<String> myList = new ArrayList<>();
+        myList.add("Java");
+        myList.add("is");
+        myList.add("cool");
+        saj.printList(myList);
+        System.out.println('\n');
 
         System.out.println("Father");
         f.name();
